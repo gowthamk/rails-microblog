@@ -1,0 +1,1 @@
+/Library/Ruby/Gems/2.0.0/gems/activerecord-4.0.8/lib/active_record/connection_adapters/sqlite3_adapter.rb
